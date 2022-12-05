@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Power outage monitoring using Uptime Kuma"
+title:  "Power outages monitoring using Uptime Kuma"
 categories: [ linux, self-hosted, cloud ]
 image: assets/images/2022-12-01-power-outage-monitoring.jpg
 featured: false
 comments: false
 ---
 
-We are going to monitor the power outages in the appartment and send Telegram notifications whe the power switches on/off. To know if the appartment has the electricity we are going to ping the router. 
+> We are going to monitor the power outages in the appartment and send Telegram notifications whe the power switches on/off. To know if the appartment has the electricity we are going to ping the router. 
 
 #### Set up DDNS
 
